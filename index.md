@@ -1,6 +1,7 @@
 Vanilla implemenation for technilogies described in [UI-Species specification](https://ui-species.org).
 
 Feel free to contact with our support by email [support@ui-species.com](mailto:support@ui-species.com)
+
 ## Products
 
 - Developer Portal
